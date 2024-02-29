@@ -1,2 +1,1 @@
-# spring-boot-microservices-new
-This repository contains the latest source code of the spring-boot-microservices tutorial
+This project employs a microservices architecture, integrating various technologies such as Spring Cloud, Eureka for service registration, Resilience4j, Kafka for messaging, Zipkin for distributed tracing, an API gateway, and Keycloak for authentication and authorization.
